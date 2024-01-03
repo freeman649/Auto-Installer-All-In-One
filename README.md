@@ -1,6 +1,8 @@
 # Auto-Installer-All-In-One
 Simple software to install all your programs after formatting your computer, including a browser, game launcher, and other software
 
+update coming soon
+
 ALWAYS RUN THE SOFTWARE FROM START.BAT IN ADMINISTRATER
 
 Short preview of the software:
