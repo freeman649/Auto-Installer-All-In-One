@@ -1,0 +1,34 @@
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\bin\Debug\net8.0-windows\Auto Installer All In One.exe
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\bin\Debug\net8.0-windows\Auto Installer All In One.deps.json
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\bin\Debug\net8.0-windows\Auto Installer All In One.runtimeconfig.json
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\bin\Debug\net8.0-windows\Auto Installer All In One.dll
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\bin\Debug\net8.0-windows\Auto Installer All In One.pdb
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\bin\Debug\net8.0-windows\Guna.UI2.dll
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\bin\Debug\net8.0-windows\NuGet.Frameworks.dll
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\bin\Debug\net8.0-windows\System.Management.dll
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\obj\Debug\net8.0-windows\Auto Installer All In One.csproj.AssemblyReference.cache
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\obj\Debug\net8.0-windows\Auto_Installer_All_In_One.Form1.resources
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\obj\Debug\net8.0-windows\Auto_Installer_All_In_One.Properties.Resources.resources
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\obj\Debug\net8.0-windows\Auto Installer All In One.csproj.GenerateResource.cache
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\obj\Debug\net8.0-windows\Auto Installer All In One.GeneratedMSBuildEditorConfig.editorconfig
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\obj\Debug\net8.0-windows\Auto Installer All In One.AssemblyInfoInputs.cache
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\obj\Debug\net8.0-windows\Auto Installer All In One.AssemblyInfo.cs
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\obj\Debug\net8.0-windows\Auto Installer All In One.csproj.CoreCompileInputs.cache
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\obj\Debug\net8.0-windows\Auto Installer All In One.csproj.CopyComplete
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\obj\Debug\net8.0-windows\Auto Installer All In One.dll
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\obj\Debug\net8.0-windows\refint\Auto Installer All In One.dll
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\obj\Debug\net8.0-windows\Auto Installer All In One.pdb
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\obj\Debug\net8.0-windows\Auto Installer All In One.genruntimeconfig.cache
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\obj\Debug\net8.0-windows\ref\Auto Installer All In One.dll
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\test\Auto Installer All In One.exe
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\test\Auto Installer All In One.deps.json
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\test\Auto Installer All In One.runtimeconfig.json
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\test\Auto Installer All In One.dll
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\test\Auto Installer All In One.pdb
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\test\Guna.UI2.dll
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\test\Newtonsoft.Json.dll
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\test\NuGet.Frameworks.dll
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\test\System.Management.dll
+G:\Auto Installer All In One\Auto Installer All In One\Auto Installer All In One\test\runtimes\win\lib\net7.0\System.Management.dll
